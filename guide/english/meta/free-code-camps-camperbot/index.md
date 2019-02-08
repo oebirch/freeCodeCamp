@@ -11,7 +11,7 @@ Hi, I'm **<a href='https://github.com/FreeCodeCamp/freecodecamp/wiki/camperbot' 
 *   `about @username` shows info on that user
 *   `Algorithm BONFIRENAME` info on a Algorithm
 
-meet CamperBot in <a href='https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-006400.svg?style=flat-square&maxAge=2592000%29.svg' target='_blank' rel='nofollow'>![FreeCodeCamp/camperbotPlayground</a>](https://gitter.im/FreeCodeCamp/camperbotPlayground)
+meet CamperBot in <a href='https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-000000.svg?style=flat-square&maxAge=2592000%29.svg' target='_blank' rel='nofollow'>![FreeCodeCamp/camperbotPlayground</a>](https://gitter.im/FreeCodeCamp/camperbotPlayground)
 
 ## Example Commands
 

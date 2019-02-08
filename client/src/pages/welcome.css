@@ -10,7 +10,7 @@
 .update-link {
   text-decoration: underline;
   font-size: 1.4em;
-  color: #006400;
+  color: #000000;
 }
 
 p.stats {
@@ -18,5 +18,5 @@ p.stats {
 }
 
 p.stats span {
-  color: #006400;
+  color: #000000;
 }

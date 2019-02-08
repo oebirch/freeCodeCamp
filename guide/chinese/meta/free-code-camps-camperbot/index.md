@@ -12,20 +12,20 @@ localeTitle: 免费守则营Camperbot
 *   `about @username`显示该用户的信息
 *   `Algorithm BONFIRENAME`信息
 
-见到CamperBot [![FreeCodeCamp / camperbotPlayground </A>](https://gitter.im/FreeCodeCamp/camperbotPlayground)](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-006400.svg?style=flat-square&maxAge=2592000%29.svg) 
+见到CamperBot [![FreeCodeCamp / camperbotPlayground </A>](https://gitter.im/FreeCodeCamp/camperbotPlayground)](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-000000.svg?style=flat-square&maxAge=2592000%29.svg) 
 
-## [示例命令](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-006400.svg?style=flat-square&maxAge=2592000%29.svg)
+## [示例命令](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-000000.svg?style=flat-square&maxAge=2592000%29.svg)
 
-[](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-006400.svg?style=flat-square&maxAge=2592000%29.svg)
+[](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-000000.svg?style=flat-square&maxAge=2592000%29.svg)
 
  [`find js   # all JS entries 
  wiki muta  # first entry with muta in name 
  wiki bobbytables  # showing images 
  wiki video  # and video 
  rollem    # secret sauce 
- Algorithm roman   # any Algorithm with roman in name` ](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-006400.svg?style=flat-square&maxAge=2592000%29.svg) 
+ Algorithm roman   # any Algorithm with roman in name` ](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-000000.svg?style=flat-square&maxAge=2592000%29.svg) 
 
-[](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-006400.svg?style=flat-square&maxAge=2592000%29.svg)
+[](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-000000.svg?style=flat-square&maxAge=2592000%29.svg)
 
 要使用CamperBot，请使用测试频道： [https](https://gitter.im/FreeCodeCamp/camperbotPlayground) ：//gitter.im/FreeCodeCamp/camperbotPlayground
 

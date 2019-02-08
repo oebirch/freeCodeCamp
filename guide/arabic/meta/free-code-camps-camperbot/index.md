@@ -12,20 +12,20 @@ localeTitle: رمز الحر للمخيمات كامبيروت
 *   `about @username` يظهر معلومات عن هذا المستخدم
 *   `Algorithm BONFIRENAME` معلومات `Algorithm BONFIRENAME` على خوارزمية
 
-تلبية CamperBot في [![FreeCodeCamp / camperbotPlayground </A>](https://gitter.im/FreeCodeCamp/camperbotPlayground)](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-006400.svg?style=flat-square&maxAge=2592000%29.svg) 
+تلبية CamperBot في [![FreeCodeCamp / camperbotPlayground </A>](https://gitter.im/FreeCodeCamp/camperbotPlayground)](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-000000.svg?style=flat-square&maxAge=2592000%29.svg) 
 
-## [أوامر المثال](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-006400.svg?style=flat-square&maxAge=2592000%29.svg)
+## [أوامر المثال](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-000000.svg?style=flat-square&maxAge=2592000%29.svg)
 
-[](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-006400.svg?style=flat-square&maxAge=2592000%29.svg)
+[](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-000000.svg?style=flat-square&maxAge=2592000%29.svg)
 
  [`find js   # all JS entries 
  wiki muta  # first entry with muta in name 
  wiki bobbytables  # showing images 
  wiki video  # and video 
  rollem    # secret sauce 
- Algorithm roman   # any Algorithm with roman in name` ](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-006400.svg?style=flat-square&maxAge=2592000%29.svg) 
+ Algorithm roman   # any Algorithm with roman in name` ](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-000000.svg?style=flat-square&maxAge=2592000%29.svg) 
 
-[](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-006400.svg?style=flat-square&maxAge=2592000%29.svg)
+[](https://img.shields.io/badge/Gitter_Chat_Room:-FreeCodeCamp/camperbotPlayground_%E2%86%91-000000.svg?style=flat-square&maxAge=2592000%29.svg)
 
 للعب مع CamperBot يرجى استخدام قناة الاختبار: [https://gitter.im/FreeCodeCamp/camperbotPlayground](https://gitter.im/FreeCodeCamp/camperbotPlayground)
 

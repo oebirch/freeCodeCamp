@@ -7,7 +7,8 @@ const fCCglyph = 'https://s3.amazonaws.com/freecodecamp/FFCFire.png';
 function NavLogo() {
   return (
     <Media query='(min-width: 735px)'>
-      {matches =>
+          <span className='nav-logo logo ml-logo ml-logo--white'>Modern Labor</span>
+      {/* {matches =>
         matches ? (
           <img
             alt='learn to code at freeCodeCamp logo'
@@ -21,7 +22,7 @@ function NavLogo() {
             src={fCCglyph}
           />
         )
-      }
+      } */}
     </Media>
   );
 }

@@ -85,14 +85,6 @@ const IndexPage = () => (
       <Spacer />
       <BigCallToAction />
       <Spacer />
-      <h2>As featured in:</h2>
-      <Image
-        alt='companies featuring freeCodeCamp'
-        className='img-center'
-        responsive={true}
-        src='https://s3.amazonaws.com/freecodecamp/as-seen-on.png'
-      />
-      <Spacer />
       <hr />
       <Spacer />
       <h2>Launch your developer career</h2>

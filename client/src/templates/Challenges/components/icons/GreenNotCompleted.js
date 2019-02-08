@@ -20,7 +20,7 @@ function GreenNotCompleted(props) {
             cy='99'
             fill='#FFFFFF'
             r='95'
-            stroke='#006400'
+            stroke='#000000'
             strokeDasharray='null'
             strokeLinecap='null'
             strokeLinejoin='null'

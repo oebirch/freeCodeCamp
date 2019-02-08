@@ -16,9 +16,9 @@ function GreenPass(props) {
           <circle
             cx='100'
             cy='99'
-            fill='#006400'
+            fill='#000000'
             r='95'
-            stroke='#006400'
+            stroke='#000000'
             strokeDasharray='null'
             strokeLinecap='null'
             strokeLinejoin='null'

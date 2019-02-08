@@ -25,10 +25,10 @@ const favicons = [
     type='image/png'
   />,
   <link href='/assets/site.webmanifest' rel='manifest' />,
-  <link color='#006400' href='/assets/safari-pinned-tab.svg' rel='mask-icon' />,
-  <meta content='#006400' name='msapplication-TileColor' />,
+  <link color='#000000' href='/assets/safari-pinned-tab.svg' rel='mask-icon' />,
+  <meta content='#000000' name='msapplication-TileColor' />,
   <meta content='/assets/mstile-144x144.png' name='msapplication-TileImage' />,
-  <meta content='#006400' name='theme-color' />
+  <meta content='#000000' name='theme-color' />
 ];
 
 export default favicons;

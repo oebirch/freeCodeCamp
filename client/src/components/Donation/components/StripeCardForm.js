@@ -13,7 +13,7 @@ const propTypes = {
 
 const style = {
   base: {
-    color: '#006400'
+    color: '#000000'
   }
 };
 

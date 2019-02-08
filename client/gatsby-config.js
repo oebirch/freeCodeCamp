@@ -140,7 +140,7 @@ module.exports = {
         /* eslint-disable camelcase */
         short_name: 'fCC',
         start_url: '/',
-        theme_color: '#006400',
+        theme_color: '#000000',
         background_color: '#fff',
         /* eslint-enable camelcase */
         display: 'minimal-ui',

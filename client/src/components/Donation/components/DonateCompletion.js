@@ -27,7 +27,7 @@ function DonateCompletion({ close, processing, reset, success, error = null }) {
         {processing && (
           <Spinner
             className='user-state-spinner'
-            color='#006400'
+            color='#000000'
             fadeIn='none'
             name='line-scale'
           />
